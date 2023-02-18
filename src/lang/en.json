@@ -1,0 +1,13 @@
+{
+    "commands" : {
+        "hug": {
+            "hug_pre_ping": "Awww, how sweet",
+            "hug_mid_ping": "wrapped their arms around",
+            "hug_post_ping": "and hugged them!"
+        },
+        "ping": {
+            "ping_pre_elmnt": "API Latency:",
+            "ping_post_elmnt": "Client Ping:"
+        }
+    }
+}
