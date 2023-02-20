@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/SleepyFur/SleepyFur.GitHub.io/blob/main/assets/logo.png" alt="Proot" width="200">
+  <img src="https://github.com/SleepyFur/Zephyr/blob/dea595de2ab58fc752b89f92f60bb542cb71b848/assets/images/boticoncircle.png" alt="Zephyr" width="200">
   <br>
   Zephyr
   <br>
@@ -23,15 +23,27 @@
 
 ## How To Use
 
-If you want to use this specific bot, you can invite it using the link here: [insertlinkoncedone, dev]
+If you want to use this specific bot, you can invite it using the link <a href="https://discord.com/api/oauth2/authorize?client_id=1076614413185994782&permissions=2064298536007&scope=bot">**here**</a>
 
-## Credits
+*Otherwise, Just read the code I guess?*
 
-This code belongs to the developer, SleepyFur. the packages used will be listed below once the bot is stable and active
+## Credits And Rights
+
+**This code belongs to the developer, SleepyFur.** the packages used will be listed below once the bot is stable and active
+
+You may use this code as reference, and you may integrate parts of the code within this repository within your own projects
+
+*Crediting my work would be appreciated, if you do decide to use it*
 
 ## Support
 
-<a href="https://discord.gg/SxW6UJ95qM">The support server can be found here</a>
+<a href="https://discord.gg/SxW6UJ95qM">**The support server can be found at this link**</a>
+
+Or you can DM me personally on discord or telegram
+
+Discord: **SleepyFur#6666**
+
+Telegram: <a href="https://t.me/SleepyFur">**Here**</a>
 
 ## License
 
